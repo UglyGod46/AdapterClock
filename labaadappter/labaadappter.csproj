@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes and Interfaces\AnalogClock.cs" />
+    <Compile Include="Classes and Interfaces\ClockAdapter.cs" />
+    <Compile Include="Classes and Interfaces\DigitalClock.cs" />
+    <Compile Include="Classes and Interfaces\ITime.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
